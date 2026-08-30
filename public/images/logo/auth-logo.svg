@@ -1,0 +1,5 @@
+<svg width="216" height="48" viewBox="0 0 216 48" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect x="1.5" y="1.5" width="45" height="45" rx="11" fill="#465FFF"/>
+  <path d="M14.5 34V14h8.9c3.7 0 6.1 2.2 6.1 5.6 0 2.4-1.1 4.2-3.2 5l4.2 9.4h-5.2l-3.6-7.4H19V34h-4.5Zm4.5-11h3.7c1.7 0 2.7-.9 2.7-2.3s-1-2.3-2.7-2.3H19v4.6Z" fill="#fff"/>
+  <text x="56" y="31" font-family="Outfit, -apple-system, sans-serif" font-size="21" font-weight="600" fill="#FFFFFF">RagPilot</text>
+</svg>
