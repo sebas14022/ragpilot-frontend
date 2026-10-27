@@ -25,3 +25,8 @@ dist-ssr
 
 # Local tooling
 .atl/
+
+# Environment
+.env
+.env.*
+!.env.example

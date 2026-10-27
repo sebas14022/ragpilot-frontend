@@ -12,6 +12,7 @@ import { ReactComponent as EyeCloseIcon } from "./eye-close.svg?react";
 import { ReactComponent as EyeIcon } from "./eye.svg?react";
 import { ReactComponent as FileIcon } from "./file.svg?react";
 import { ReactComponent as TrashBinIcon } from "./trash.svg?react";
+import { ReactComponent as CompareIcon } from "./compare.svg?react";
 
 export {
   ChatIcon,
@@ -28,4 +29,5 @@ export {
   EyeIcon,
   FileIcon,
   TrashBinIcon,
+  CompareIcon,
 };

@@ -1,7 +1,7 @@
 import { useCallback } from "react";
 import { Link, useLocation } from "react-router";
 
-import { ChatIcon, GridIcon, HorizontaLDots } from "../icons";
+import { ChatIcon, HorizontaLDots } from "../icons";
 import { useSidebar } from "../context/SidebarContext";
 
 type NavItem = {
@@ -12,14 +12,9 @@ type NavItem = {
 
 const navItems: NavItem[] = [
   {
-    icon: <GridIcon />,
-    name: "Dashboard",
-    path: "/",
-  },
-  {
     icon: <ChatIcon />,
-    name: "Test RAG",
-    path: "/rag-test",
+    name: "RAG Lab",
+    path: "/",
   },
 ];
 

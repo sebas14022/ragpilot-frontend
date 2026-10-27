@@ -15,4 +15,14 @@ export default defineConfig({
       },
     }),
   ],
+  build: {
+    rollupOptions: {
+      output: {
+        manualChunks: {
+          supabase: ["@supabase/supabase-js"],
+          vendor: ["react", "react-dom", "react-router"],
+        },
+      },
+    },
+  },
 });
